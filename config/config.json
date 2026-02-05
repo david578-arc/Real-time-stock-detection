@@ -1,0 +1,6 @@
+{
+  "ema_alpha": 0.3,
+  "frame_skip": 5,
+  "score_threshold": 0.2,
+  "nms_iou_threshold": 0.5
+}
