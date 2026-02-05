@@ -1,0 +1,32 @@
+2025-08-29 11:27:20,924 - INFO - Starting shelf stock detector with raw SQLite...
+2025-08-29 11:27:30,683 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp4whi28ua.jpg'
+2025-08-29 11:27:37,296 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmprf7d7i6r.jpg'
+2025-08-29 11:27:43,791 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpzgw1oqz7.jpg'
+2025-08-29 11:27:46,324 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmprtmrueuw.jpg'
+2025-08-29 11:27:55,997 - INFO - Quit signal received.
+2025-08-29 11:27:56,364 - INFO - Detector stopped.
+2025-08-29 11:27:58,835 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpn0condxv.jpg'
+2025-08-29 13:03:20,861 - INFO - Starting shelf stock detector with raw SQLite...
+2025-08-29 13:03:26,861 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpxqe_8n71.jpg'
+2025-08-29 13:03:31,572 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpmawp6r8b.jpg'
+2025-08-29 13:03:33,972 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpcerep_hp.jpg'
+2025-08-29 13:03:37,527 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp4a6g34x_.jpg'
+2025-08-29 13:03:39,661 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp0gun_7fl.jpg'
+2025-08-29 13:03:41,739 - INFO - Quit signal received.
+2025-08-29 13:03:42,053 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpeq5g7syu.jpg'
+2025-08-29 13:03:42,223 - INFO - Detector stopped.
+2025-08-29 13:05:19,499 - INFO - Starting shelf stock detector with raw SQLite...
+2025-08-29 13:05:23,263 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpx4wbxvuq.jpg'
+2025-08-29 13:05:27,486 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpojoni3xr.jpg'
+2025-08-29 13:05:29,779 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpiso4ajwa.jpg'
+2025-08-29 13:05:33,837 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmptatyxunh.jpg'
+2025-08-29 13:05:36,544 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp9zca1xva.jpg'
+2025-08-29 13:05:38,843 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpmneuc0d7.jpg'
+2025-08-29 13:05:41,458 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp8mtc1wmi.jpg'
+2025-08-29 13:05:43,563 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpamv8lm1d.jpg'
+2025-08-29 13:05:45,625 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpp9nf3dop.jpg'
+2025-08-29 13:05:47,787 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpq0l2bimg.jpg'
+2025-08-29 13:05:49,870 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmpf799xqvr.jpg'
+2025-08-29 13:05:52,228 - INFO - Quit signal received.
+2025-08-29 13:05:52,705 - INFO - Detector stopped.
+2025-08-29 13:05:54,766 - ERROR - Inference error: [WinError 32] The process cannot access the file because it is being used by another process: 'C:\\Users\\user\\AppData\\Local\\Temp\\tmp64d5off2.jpg'
