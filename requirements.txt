@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+transformers>=4.39.0
+pillow
+opencv-python
+numpy
+pandas
+sqlalchemy
+streamlit
+statsmodels
+reportlab
+matplotlib
+scikit-learn
